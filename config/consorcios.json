@@ -1,0 +1,19 @@
+{
+  "_nota": "Catálogo semilla relevado de Drive el 2026-07-19. Confirmar/completar códigos, CUIT y estado (activo/histórico).",
+  "convencion": "Carpetas en Drive: '<nro>. <nombre>' dentro de Administracion. Códigos cortos para archivos: letra de calle + número.",
+  "consorcios": [
+    { "codigo": "V30", "nombre": "Cons. Vedia 30", "direccion": "Vedia 30, Sarandí, Avellaneda", "estado": "confirmar" },
+    { "codigo": "M5865", "nombre": "Cons. Av. Mitre 5865", "direccion": "Av. Mitre 5865", "cuit": "30-60057776-6", "carpeta": "35", "estado": "activo" },
+    { "codigo": "M1699", "nombre": "Cons. Av. Mitre 1699", "estado": "confirmar" },
+    { "codigo": "M2414", "nombre": "Cons. Av. Mitre 2414", "estado": "confirmar" },
+    { "codigo": "A1037", "nombre": "Cons. F. Ameghino 1037", "direccion": "Ameghino 1037, Avellaneda", "estado": "activo" },
+    { "codigo": "O53", "nombre": "Cons. 12 de Octubre 53", "estado": "confirmar" },
+    { "codigo": "C152", "nombre": "Cons. Colon 152", "estado": "confirmar" },
+    { "codigo": "E150", "nombre": "Cons. Estibau 150", "estado": "confirmar" },
+    { "codigo": "GP120", "nombre": "Cons. Gral Paz 120", "estado": "confirmar" },
+    { "codigo": "EBA02", "nombre": "Estación Buenos Aires - Sector 2", "carpeta": "305", "estado": "activo" },
+    { "codigo": "EBA09", "nombre": "Estación Buenos Aires - Sector 9 (incluye Torre 13, Miravé 3020)", "carpeta": "306", "estado": "activo" },
+    { "codigo": "EBA10", "nombre": "Estación Buenos Aires - Sector 10", "estado": "confirmar" },
+    { "codigo": "EBA15", "nombre": "Estación Buenos Aires - Sector 15 (Fangio 3065/3075, Monasterio 720)", "estado": "activo" }
+  ]
+}

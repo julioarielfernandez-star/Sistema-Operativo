@@ -1,0 +1,27 @@
+{
+  "orchestrator": {
+    "skill": "govern-administration-system",
+    "checkpoints": ["C0 CONFIG", "C1 PREFLIGHT", "C2 CAPTURE", "C3 CASE", "C4 PROPOSAL", "C5 APPROVAL", "C6 APPLY", "C7 READBACK", "C8 RECONCILE", "C9 CLOSE"]
+  },
+  "lifecycle": [
+    { "skill": "capture-whatsapp-cases", "responsibility": "Identidad exacta, nota de cliente, archivo verificado" },
+    { "skill": "triage-gmail-inbox", "responsibility": "Etiquetas, borradores de hilo, archivo verificado" },
+    { "skill": "extract-plaud-julio-actions", "responsibility": "Acciones y decisiones solo de Julio" },
+    { "skill": "classify-eisenhower-cases", "responsibility": "Q1-Q4, SLA y fundamento" },
+    { "skill": "route-administration-work", "responsibility": "Elige proceso y rol antes de la persona" },
+    { "skill": "prepare-team-handoffs", "responsibility": "Handoff interno y respuesta externa por separado" },
+    { "skill": "plan-calendar-reminders", "responsibility": "Recordatorios en el calendario exclusivo" },
+    { "skill": "audit-reconcile-cases", "responsibility": "Coherencia, duplicados, reaperturas, cierres" }
+  ],
+  "domain": [
+    { "skill": "manage-treasury-payroll-tax", "scope": "Bancos, pagos, nómina, tributos", "installed_equivalent": null },
+    { "skill": "manage-expenses-collections", "scope": "Liquidaciones, cobranzas, saldos", "installed_equivalent": null },
+    { "skill": "manage-supplier-invoices", "scope": "Facturas, validación, derivación a pago", "installed_equivalent": null },
+    { "skill": "coordinate-maintenance-providers", "scope": "Reclamos, visitas, presupuestos", "installed_equivalent": null },
+    { "skill": "manage-insurance-contracts", "scope": "Pólizas, siniestros, renovaciones", "installed_equivalent": null },
+    { "skill": "manage-hr-cleaning-compliance", "scope": "Personal, medicina laboral, limpieza", "installed_equivalent": null },
+    { "skill": "prepare-legal-assemblies", "scope": "Mediaciones, convocatorias, actas", "installed_equivalent": ["redaccion-acta-de-asamblea", "redaccion-convocatoria-de-asamblea"] },
+    { "skill": "organize-administration-documents", "scope": "Clasificación reversible por consorcio", "installed_equivalent": ["organizar-consorcios"] },
+    { "skill": "monitor-recurring-due-dates", "scope": "Abonos y obligaciones recurrentes", "installed_equivalent": ["tablero-vencimientos-sheets"] }
+  ]
+}

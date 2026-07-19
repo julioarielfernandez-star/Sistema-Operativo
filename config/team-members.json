@@ -1,0 +1,12 @@
+{
+  "_nota": "Roles observados en Drive y en el diseño V3. Confirmar antes de asignar permisos. Regla: el rol se asigna al proceso; la persona ocupa el rol.",
+  "members": [
+    { "name": "Julio Ariel Fernández", "email": "julioarielfernandez@gmail.com", "role": "titular-administrador", "approves_changes": true },
+    { "name": "Cuenta soporte", "email": "soporte.julioarielfernandez@gmail.com", "role": "cuenta-satelite-comprobantes" },
+    { "name": "Cuenta proveedores", "email": "proveedores.julioarielfernandez@gmail.com", "role": "cuenta-satelite-proveedores" },
+    { "name": "Laura", "email": null, "role": "cobranzas", "tool": "sitio propio (sync por receiptId)" },
+    { "name": "Paola Franco", "email": "paolamfranco@gmail.com", "role": "colaboradora (a confirmar)" },
+    { "name": "Andrea Isabel Fernández", "email": "andrea.isabel.fernandez@gmail.com", "role": "conciliaciones bancarias (a confirmar)" },
+    { "name": "Estudio Martínez", "email": "martinezc.laboral@gmail.com", "role": "asesoría laboral externa" }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "timezone": "America/Buenos_Aires",
+  "ledger": "state/state-v3.json",
+  "approval": {
+    "rule": "El silencio deja la propuesta pendiente. Solo 'APROBAR CAMBIO CHG-<id>' autoriza modificar skill, rol, horario, plantilla, umbral o permiso.",
+    "approver": "Julio Ariel Fernández",
+    "change_prefix": "CHG-",
+    "operation_prefix": "OP-"
+  },
+  "improvement_cycle": {
+    "rule": "Una corrección de caso no crea regla general.",
+    "proposal_trigger": "3 correcciones semejantes en 7 días, o 1 falla grave",
+    "proposal_requires": ["evidencia", "regla actual", "cambio propuesto", "riesgo", "reversión"],
+    "apply_path": "aprobación → config/ → skills"
+  },
+  "daily_review": {
+    "time": "18:30",
+    "covers": [
+      "salud y cobertura por fuente",
+      "Q1-Q4, vencidos, próximas 24h, casos sin responsable",
+      "operaciones OP- y cambios CHG- propuestos",
+      "evidencia, riesgo, prueba y reversión de cada propuesta",
+      "excepciones, needs_reopen y escrituras inciertas"
+    ]
+  },
+  "gates": {
+    "whatsapp_send": false,
+    "gmail_send": false,
+    "delete": false,
+    "label_note_draft": "pilot",
+    "archive_verified_source": "pilot+readback",
+    "calendar_write": "id explícito, nunca primary"
+  }
+}
