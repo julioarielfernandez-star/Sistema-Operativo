@@ -72,11 +72,11 @@ Mi unidad/
 | 307 | 307. EBA15 | 30716640996 | Estación Buenos Aires sector 15 (Fangio 3065/3075, Monasterio 720) |
 | 330 | 330. PM1751 | (sin dato) | Pedro Mendoza 1751 |
 | 350 | 350. GO171 | 30656499695 | Gelly Obes 171 |
-| 364 | 364. A518 | 30625047680 | Ameghino 518 |
+| 364 | 364. A518 | 30625047680 | Ameghino 518 — **BAJA 2026-07-20, ya no se administra** |
 | 370 | 370. Arenales 277 | 30717061132 | Arenales 277 / Brandsen 1242 |
 | 371 | 371. Arenales 269 | 30717061132 | Arenales 269 (comparte CUIT con 370) |
 
-**Bajas confirmadas por Julio (2026-07-20):** Colón 152, Alsina 285 y Chacabuco 24 ya no se administran.
+**Bajas confirmadas por Julio (2026-07-20):** 364 (Ameghino 518), Colón 152, Alsina 285 y Chacabuco 24 ya no se administran.
 
 ⚠️ Aparecen en los trackers de vencimientos sin carpeta propia y **sin confirmar**: Mitre 2012, Mitre 2636, Mitre 2648, Mitre 1829, Mitre 616, Seminario 1314, M. Castro 959, Capello 358, Tucumán 1264, Achával 763. (PM1751 y GO171 figuran desglosados por torre.)
 

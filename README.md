@@ -11,7 +11,8 @@ Repositorio central del sistema de administración, proyectos y automatización 
 | [docs/INVENTARIO.md](docs/INVENTARIO.md) | Inventario de los 3 sistemas construidos: BRÚJULA/GTD, sistema local Windows, Sistema V3 |
 | [docs/DRIVE-ESTRUCTURA.md](docs/DRIVE-ESTRUCTURA.md) | Mapa completo del Drive: módulos, convenciones, lista maestra de consorcios, scripts, reglas |
 | [config/](config) | Configuración operativa: gobierno, horarios, catálogo de procesos, consorcios, equipo |
-| [procesos/](procesos) | Un documento por proceso de trabajo (plantilla incluida) |
+| [procesos/](procesos) | Un documento por proceso de trabajo (plantilla incluida) + [registro de errores](procesos/registro-de-errores.md) que prioriza qué automatizar |
+| [skills/](skills) | Fuente versionada de las skills del equipo: convención, plantilla y ciclo de vida |
 
 ## Reglas de oro
 
