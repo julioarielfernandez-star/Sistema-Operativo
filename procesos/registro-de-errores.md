@@ -17,6 +17,13 @@ de cambio `CHG-<id>` con evidencia, regla actual, cambio propuesto, riesgo y rev
 
 ## Ranking de procesos por dolor (actualizar en cada revisión)
 
-| Proceso | Errores 🔴 | Errores 🟡 | Prioridad de automatización |
-|---------|-----------|-----------|------------------------------|
-| | | | |
+Declarado por Julio el 2026-07-20 como los 4 procesos donde el equipo está fallando:
+
+| # | Proceso | Tipo de falla declarada | Documento | Prioridad de automatización |
+|---|---------|-------------------------|-----------|------------------------------|
+| 1 | Contratos de alquileres | Tiempos: vencimientos, renovaciones, ajustes | [contratos-de-alquileres.md](contratos-de-alquileres.md) | **ALTA — primera** (falla de fechas: la más barata de automatizar) |
+| 2 | Obras de gran escala | Pagos y autorizaciones del consejo de propietarios | [obras-gran-escala.md](obras-gran-escala.md) | ALTA — segunda (mayor impacto en plata y responsabilidad) |
+| 3 | Control de costos de proveedores | Costos sin control/comparación | [control-costos-proveedores.md](control-costos-proveedores.md) | MEDIA — tercera |
+| 4 | Convivencia | Gestión de casos entre vecinos | [convivencia.md](convivencia.md) | MEDIA — cuarta (ya tiene la mejor infraestructura: bases + protocolo) |
+
+Pendiente: cargar los errores concretos de los últimos 2-3 meses en la tabla de arriba para afinar este ranking con datos.
