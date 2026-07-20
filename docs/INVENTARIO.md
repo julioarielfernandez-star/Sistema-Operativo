@@ -62,7 +62,7 @@ Ver [`../config/team-members.json`](../config/team-members.json): Ariel (titular
 
 1. **Resolver el conflicto GTD** (`Tareas.md`/`Bandeja.md` vacíos vs copias `(1)`/`(2)`) — decisión de Julio, es el bloqueo del sistema personal desde el 21/06.
 2. **Acceso al repo privado V3** o copiar sus documentos acá.
-3. **Confirmar lista real de consorcios** (23 carpetas vs ~31 en trackers).
+3. **Confirmar lista real de consorcios** — bajas confirmadas 2026-07-20: Colón 152, Alsina 285, Chacabuco 24. Quedan sin confirmar los Mitre 2012/2636/2648/1829/616, Seminario 1314, M. Castro 959, Capello 358, Tucumán 1264 y Achával 763 que figuran en los trackers.
 4. Confirmar si `procesa-bandeja` y `responder-whatsapp` existen como skills instalables.
 5. Decidir qué automatización local migra a la nube y cuál queda en la PC.
 6. Revisar las 42 tareas GTD (la mayoría con vencimientos de junio ya pasados).

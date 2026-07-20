@@ -76,7 +76,9 @@ Mi unidad/
 | 370 | 370. Arenales 277 | 30717061132 | Arenales 277 / Brandsen 1242 |
 | 371 | 371. Arenales 269 | 30717061132 | Arenales 269 (comparte CUIT con 370) |
 
-⚠️ Los trackers de vencimientos listan ~31 consorcios/torres, varios sin carpeta propia (Mitre 2012/2636/2648/1829, Alsina 285, Chacabuco 24, Seminario 1314, M. Castro 959, Capello 358, Tucumán 1264, Achával 763, Mitre 616, Colón 152). **Confirmar con Julio cuáles administra hoy.**
+**Bajas confirmadas por Julio (2026-07-20):** Colón 152, Alsina 285 y Chacabuco 24 ya no se administran.
+
+⚠️ Aparecen en los trackers de vencimientos sin carpeta propia y **sin confirmar**: Mitre 2012, Mitre 2636, Mitre 2648, Mitre 1829, Mitre 616, Seminario 1314, M. Castro 959, Capello 358, Tucumán 1264, Achával 763. (PM1751 y GO171 figuran desglosados por torre.)
 
 ### Automatización local (Windows + Python, `_organizador/`)
 

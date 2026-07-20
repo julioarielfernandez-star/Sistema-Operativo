@@ -30,5 +30,10 @@
     { "codigo": 370, "carpeta": "370. Arenales 277 y Brandsen 1242", "cuit": "30717061132", "alias": "Arenales 277 / Brandsen 1242", "nota": "comparte CUIT con 371" },
     { "codigo": 371, "carpeta": "371. Arenales 269", "cuit": "30717061132", "alias": "Arenales 269", "nota": "comparte CUIT con 370" }
   ],
-  "_pendiente_confirmar": "Los trackers de vencimientos listan ~31 consorcios/torres; varios sin carpeta: Mitre 2012/2636/2648/1829, Alsina 285, Chacabuco 24, Seminario 1314, M. Castro 959, Capello 358, Tucumán 1264, Achával 763, Mitre 616, Colón 152. Confirmar con Julio cuáles se administran hoy."
+  "bajas": [
+    { "alias": "Colón 152", "estado": "ya no se administra", "confirmado_por_julio": "2026-07-20" },
+    { "alias": "Alsina 285", "estado": "ya no se administra", "confirmado_por_julio": "2026-07-20" },
+    { "alias": "Chacabuco 24", "estado": "ya no se administra", "confirmado_por_julio": "2026-07-20" }
+  ],
+  "_pendiente_confirmar": "Aparecen en los trackers de vencimientos pero sin carpeta propia ni confirmación: Mitre 2012, Mitre 2636, Mitre 2648, Mitre 1829, Mitre 616, Seminario 1314, M. Castro 959, Capello 358, Tucumán 1264, Achával 763. Confirmar con Julio si se administran hoy. PM1751 y GO171 aparecen desglosados por torre en los trackers."
 }
