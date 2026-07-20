@@ -7,6 +7,6 @@
     { "name": "Plaud de Julio", "schedule": "08:30, 13:30, 17:30", "status": "pilot", "skill": "extract-plaud-julio-actions" },
     { "name": "Resumen matutino", "schedule": "08:30", "status": "active", "skill": "morning" },
     { "name": "Gobierno y auditoría", "schedule": "18:30", "status": "active", "skill": "govern-administration-system" },
-    { "name": "Espejo Paquete-Sistema-IA", "schedule": "lunes 08:30", "status": "active", "trigger_id": "trig_01E1JV7atChwLXgu4dvwgLeW", "descripcion": "Regenera el paquete del sistema en Drive (00-NUCLEO/Paquete-Sistema-IA) para ChatGPT/Gemini", "doc": "docs/ESPEJO-IA.md" }
+    { "name": "Espejo Paquete-Sistema-IA", "schedule": "diario 08:00", "status": "active", "trigger_id": "trig_01H2PZVqtpK6a6o1x7bNAEFz", "descripcion": "Regenera el paquete del sistema en Drive (00-NUCLEO/Paquete-Sistema-IA) para ChatGPT/Gemini, solo si el repo cambió (control por hash de commit)", "doc": "docs/ESPEJO-IA.md" }
   ]
 }
