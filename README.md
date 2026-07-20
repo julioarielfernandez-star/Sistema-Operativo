@@ -8,7 +8,8 @@ Repositorio central del sistema de administración, proyectos y automatización 
 |---|---|
 | [PLAN.md](PLAN.md) | Plan maestro: qué existe, arquitectura recomendada, fases de implementación |
 | [docs/SISTEMA-V3.md](docs/SISTEMA-V3.md) | Arquitectura completa del Sistema V3 (fuentes, orquestador, 17 agentes, gobierno, barreras) |
-| [docs/INVENTARIO.md](docs/INVENTARIO.md) | Inventario de todo lo construido: skills, conectores, Drive, planillas, equipo |
+| [docs/INVENTARIO.md](docs/INVENTARIO.md) | Inventario de los 3 sistemas construidos: BRÚJULA/GTD, sistema local Windows, Sistema V3 |
+| [docs/DRIVE-ESTRUCTURA.md](docs/DRIVE-ESTRUCTURA.md) | Mapa completo del Drive: módulos, convenciones, lista maestra de consorcios, scripts, reglas |
 | [config/](config) | Configuración operativa: gobierno, horarios, catálogo de procesos, consorcios, equipo |
 | [procesos/](procesos) | Un documento por proceso de trabajo (plantilla incluida) |
 

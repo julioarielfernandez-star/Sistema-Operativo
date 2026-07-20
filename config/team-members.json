@@ -1,12 +1,28 @@
 {
-  "_nota": "Roles observados en Drive y en el diseño V3. Confirmar antes de asignar permisos. Regla: el rol se asigna al proceso; la persona ocupa el rol.",
+  "_fuente": "00-NUCLEO/Memoria.md vía Traspaso-Sistema.md (2026-07-11) + panel de equipo en '00. Administracion/00. Equipo/'. Modelo POR FUNCIÓN: el rol se asigna al proceso; la persona ocupa el rol.",
+  "_referencias_drive": ["Panel del Equipo.md", "Matriz de Responsabilidades.md"],
   "members": [
-    { "name": "Julio Ariel Fernández", "email": "julioarielfernandez@gmail.com", "role": "titular-administrador", "approves_changes": true },
-    { "name": "Cuenta soporte", "email": "soporte.julioarielfernandez@gmail.com", "role": "cuenta-satelite-comprobantes" },
-    { "name": "Cuenta proveedores", "email": "proveedores.julioarielfernandez@gmail.com", "role": "cuenta-satelite-proveedores" },
-    { "name": "Laura", "email": null, "role": "cobranzas", "tool": "sitio propio (sync por receiptId)" },
-    { "name": "Paola Franco", "email": "paolamfranco@gmail.com", "role": "colaboradora (a confirmar)" },
-    { "name": "Andrea Isabel Fernández", "email": "andrea.isabel.fernandez@gmail.com", "role": "conciliaciones bancarias (a confirmar)" },
-    { "name": "Estudio Martínez", "email": "martinezc.laboral@gmail.com", "role": "asesoría laboral externa" }
+    { "name": "Ariel (Julio Ariel Fernández)", "email": "julioarielfernandez@gmail.com", "role": "titular-administrador, dueño del sistema", "approves_changes": true },
+    { "name": "Paola Franco", "email": "paolamfranco@gmail.com", "role": "socia y co-administradora: pagos, coordinación de equipo, credenciales, honorarios; legales sensibles junto a Ariel" },
+    { "name": "Martín", "email": null, "role": "recepción y derivación" },
+    { "name": "Laura", "email": null, "role": "cobranzas y proveedores; sitio de cobranzas propio (sync por receiptId)" },
+    { "name": "Juan", "email": null, "role": "técnica, proveedores, presupuestos" },
+    { "name": "Ignacio (Nacho)", "email": null, "role": "escaneo, sistemas, personal" },
+    { "name": "Andrea Isabel Fernández", "email": "andrea.isabel.fernandez@gmail.com", "role": "conciliaciones bancarias (a confirmar)" }
+  ],
+  "cuentas_satelite": [
+    { "email": "soporte.julioarielfernandez@gmail.com", "uso": "comprobantes y liquidaciones" },
+    { "email": "proveedores.julioarielfernandez@gmail.com", "uso": "proveedores y vencimientos de pagos" },
+    { "email": "consorcios.jaf@gmail.com", "uso": "histórico" }
+  ],
+  "apoyo_externo": [
+    "1 asociado externo",
+    "3 estudios contables (sin nombres registrados)",
+    "3 estudios jurídicos (sin nombres registrados)",
+    { "name": "Estudio Martínez", "email": "martinezc.laboral@gmail.com", "rol": "asesoría laboral" }
+  ],
+  "reglas": [
+    "Legales desde Carta Documento en adelante: exclusivos de Ariel y Paola",
+    "Consultar Matriz de Responsabilidades antes de derivar una tarea"
   ]
 }
